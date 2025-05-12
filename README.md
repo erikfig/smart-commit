@@ -84,6 +84,12 @@ git smart-commit
 
 ---
 
+## 📄 Próximos passos
+
+Gerar um instalador que facilite para o Erik do futuro.
+
+---
+
 ## 📄 Licença
 
 MIT
